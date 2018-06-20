@@ -8,3 +8,4 @@ nuf said
 [Generic Colorizer](https://korpus.sk/~garabik/software/grc.html)
 
 `brew install grc`
+
